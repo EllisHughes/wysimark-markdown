@@ -1,0 +1,50 @@
+@media (max-width: 500px) {
+  .editor-wrapper .css-13utpb1 > div:nth-child(5),
+  .editor-wrapper .css-13utpb1 > div:nth-last-child(-n + 3) {
+    display: none;
+  }
+}
+
+@media (max-width: 325px) {
+  .editor-wrapper .css-hnubqc {
+    display: flex;
+    min-height: 8rem !important;
+    height: 8rem !important;
+  }
+}
+
+.editor-wrapper .css-13utpb1 > div:nth-child(5),
+.editor-wrapper .css-13utpb1 > div:nth-last-child(-n + 4) {
+  display: none;
+}
+
+.editor-wrapper .css-dirhzp > div:nth-last-child(-n + 2) {
+  display: none;
+}
+
+.css-1rcsakw > div:nth-child(5),
+.css-1rcsakw > div:nth-child(6) {
+  display: none;
+}
+
+.editor-wrapper .css-17etcxf {
+  display: none;
+}
+
+.--hotkey {
+  display: none;
+}
+
+.editor-wrapper .css-hnubqc {
+  flex: auto;
+  min-height: 4.5rem;
+  height: 4.5rem;
+}
+
+.editor-wrapper .css-cyr08h {
+  padding: 1rem;
+}
+
+.editor-wrapper .css-1d2jq2d {
+  font-size: 1.5rem;
+}
